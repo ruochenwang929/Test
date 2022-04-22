@@ -2,4 +2,4 @@
 
 This is a test file
 
-add a line from b3
+add a line from b2
